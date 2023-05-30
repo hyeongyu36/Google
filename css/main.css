@@ -26,7 +26,7 @@ nav a img {
   opacity: 0.5;
   position: relative;
 }
-#menu:hover{
+#menu:hover {
   opacity: 0.8;
 }
 nav a #login {
@@ -38,10 +38,11 @@ nav a #login {
   border-radius: 3px;
   margin-right: 30px;
 }
-#mail:hover, #imgs:hover{
+#mail:hover,
+#imgs:hover {
   text-decoration: underline;
 }
-#menu span{
+#menu span {
   width: 30px;
   height: 30px;
   background-color: rgba(0, 0, 0, 0.2);
@@ -51,10 +52,10 @@ nav a #login {
   left: -7px;
   opacity: 0;
 }
-#menu span:hover{
-  opacity:1;
+#menu span:hover {
+  opacity: 1;
 }
-#login:hover{
+#login:hover {
   cursor: pointer;
   /* font-weight: bold; */
   box-shadow: 0px 0px 2px #333;
